@@ -53,6 +53,8 @@
     <td>0.9766816143497757</td>
     </tr>
   </table>
+  
+  <h5>conclusion:</h5>
       
   <h5>Naive Bayes is the best from among the models trained to predict the accurate result with an accuracy of 0.9883408071748879.<h5>
         
